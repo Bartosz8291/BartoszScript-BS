@@ -1,2 +1,2 @@
-# BartoszScript-BS
-bartoszscript
+# BartoszScript BS
+lisence
